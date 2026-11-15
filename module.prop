@@ -1,0 +1,7 @@
+id=debloat_a67lg2
+name=Debloat
+version=v0.3
+versionCode=3
+author=CyberspaceVII
+banner=https://cyberspace7.org/assets/ksun/imgs/debloat-a67lg2.png
+description=Lets you pick which preinstalled bloatware, carrier apps, and factory test tools to remove, one by one, during install. Nothing is permanently deleted - disable this module to restore everything.
