@@ -1,0 +1,17 @@
+com.tiktok.lite.go|TikTok Lite|system/app/TikTok64|
+com.hugoteam.airtalk_wireless|AirTalk|system/app/AirTalk|
+com.hth.airvoice_wireless|AirVoice|system/app/AirVoice|
+com.hthcomm.tagmobile|TagMobile|system/app/TagMobile|
+com.airtalk.welcome|AirVoice Welcome|system/app/AirVoiceWelcom|
+cn.heils.faceunlock|Face Unlock|system/priv-app/HeilFaceUnlockT|face
+com.sprd.linkturbo|LinkTurbo|system/system_ext/app/LinkTurbo|lt
+com.sprd.runtime|RuntimeTest|system/system_ext/app/RuntimeTest system/product/overlay/RuntimeTest__ussi_arm64_go__auto_generated_rro_product.apk|
+com.sprd.validationtools|ValidationTools|system/product/app/ValidationTools system/product/overlay/ValidationTools__ussi_arm64_go__auto_generated_rro_product.apk|
+com.sprd.cameracalibration|CameraCalibration|system/product/app/CameraCalibration|
+com.sprd.camta|CamTa|system/product/app/CamTa|
+com.unisoc.tui|TuiAuxiService|system/product/app/TuiAuxiService|
+org.ifaa.aidl.manager|IFAA Manager|system/product/app/IfaaManagerService|
+com.tencent.soter.soterserver|Soter Service|system/product/app/SoterService|
+com.sprd.omacp|Omacp|system/product/priv-app/Omacp|
+com.spreadtrum.sgps|SGPS|system/vendor/app/SGPS|
+com.sprd.uasetting|UASetting|system/vendor/app/UASetting|
